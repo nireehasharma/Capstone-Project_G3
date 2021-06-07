@@ -40,5 +40,8 @@ SOFTWARE REQUIREMENTS:
 6.	KiCad (For circuit design)
 7.	C/C++ for main code
 8.	Python as supporting code
+9.	EASYEDA
 
 FLOW CHART :
+
+![image](https://user-images.githubusercontent.com/60407203/121090533-bafc3c00-c7b6-11eb-8237-fc86c5cf3f70.png)
