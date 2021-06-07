@@ -45,3 +45,7 @@ SOFTWARE REQUIREMENTS:
 FLOW CHART :
 
 ![image](https://user-images.githubusercontent.com/60407203/121090533-bafc3c00-c7b6-11eb-8237-fc86c5cf3f70.png)
+
+ENGINEERING DRAWING :
+
+![image](https://user-images.githubusercontent.com/60407203/121090723-fbf45080-c7b6-11eb-86c4-8b0d3df1539f.png)
