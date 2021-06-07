@@ -20,6 +20,7 @@ HARDWARE REQUIREMTS:
 
 
 HARDWARE BLOCK DIAGRAM:
+![image](https://user-images.githubusercontent.com/60407203/121090260-53de8780-c7b6-11eb-9e91-c167667b64e1.png)
 
 
 
@@ -40,33 +41,4 @@ SOFTWARE REQUIREMENTS:
 7.	C/C++ for main code
 8.	Python as supporting code
 
-
-FLOW CHART:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+FLOW CHART :
